@@ -95,3 +95,49 @@ header #arrow{
     }
 }
 
+
+/* PREMIERE SECTION ABOUT, 3 PHOTOS */
+
+.section-about{
+    background-color: #f7f7f7;
+    padding-bottom: 10rem;
+
+}
+
+.centerH{
+    text-align: center;
+    margin-bottom: 8rem;
+}
+
+.titreAbout{
+    font-size: 4rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: inline-block;
+    background-image: linear-gradient(to right, #373737, #c0b283);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    letter-spacing: .2rem;
+    padding-top: 5rem;
+}
+
+.row{
+    max-width: 114rem;
+    margin: 0 auto;
+}
+
+.sousTitreAbout{
+    font-size: 1.9rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+}
+.paragraphe{
+    font-size: 1.9rem;
+}
+
+.paragraphe:not(:last-child){
+    margin-bottom: 3rem;
+    
+}
